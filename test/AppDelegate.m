@@ -25,6 +25,8 @@
     self.window.rootViewController = con;
     [self.window makeKeyAndVisible];
     
+    NSLog(@"123");
+    
     return YES;
 }
 
